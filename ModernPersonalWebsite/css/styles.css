@@ -1,0 +1,166 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Poppins', sans-serif;
+}
+
+.a-progammer {
+   font-size: 2.5rem;
+}
+
+h1 {
+  font-size: 5.625rem;
+  position: relative;
+
+  font-family: 'Nothing You Could Do', cursive;
+  margin: 50px auto 0 auto;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-div {
+  position: relative;
+  margin: 0;
+
+  background-color: #f1ae89;
+}
+
+.student {
+  text-decoration: underline;
+}
+
+.cloudb {
+  position: absolute;
+  top: 200px;
+  left: 350px;
+}
+
+.cloud1 {
+  position: relative;
+  left: 350px;
+  top: 25px;
+}
+
+.python-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.music-note {
+  display: inline-block;
+  width: 100px
+}
+
+.html-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.css-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.tr-logo {
+  display: inline-block;
+  width: 100px
+}
+
+.en-logo {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  bottom: 8px;
+}
+
+.game-console {
+  display: inline-block;
+  width: 100px;
+  position: relative;
+  left: 10px;
+}
+
+.netflix-logo {
+  display: inline-block;
+  width: 100px;
+}
+
+.profile-boy {
+  height: 180px;
+  padding-top: 30px;
+}
+
+.hello-class {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.bird-gif {
+  position: absolute;
+  width: 50px;
+  top: 220px;
+  left: 150px;
+}
+
+.bird-gif1 {
+  position: absolute;
+  width: 50px;
+  left: 200px;
+  top: 150px;
+}
+
+.bird-gif2 {
+  position: absolute;
+  width: 50px;
+  left: 300px;
+  top: 200px;
+}
+
+.bird-gif3 {
+  position: absolute;
+  width: 50px;
+  left: 250px;
+  top: 250px;
+}
+
+.bird-gifs {
+  display: inline-block;
+  position: absolute;
+  left: 150px;
+  top: 30px;
+}
+
+.deneme {
+  width: 200px;
+  height: 200px;
+  position: absolute;
+  bottom: 450px;
+}
+
+.sun {
+  height: 200px;
+
+  top: 20px;
+  position: absolute;
+}
+
+.profilep-1 {
+  margin-bottom: 0px;
+}
+
+.profilep-2 {
+  margin-top: 0px;
+  padding-left: 10px;
+}
+
+
+.mountain {
+  position: relative;
+  top: 6px;
+}
